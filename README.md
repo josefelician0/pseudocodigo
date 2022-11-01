@@ -40,7 +40,7 @@ class products
  class workers
  {
  
- ##Atributos
+ ## Atributos
  
  NameComplete = "" #Nombre completo.
  
@@ -60,7 +60,7 @@ class products
  
  }
  
- ##Métodos
+ ## Métodos
  {
  
  ExtraHours {} #Horas extras.
