@@ -25,6 +25,10 @@ class products
  
  BarCode = "" #Código de barra.
  
+ }
+ 
+ {
+ 
  ## Métodos
  
  Discount {} #Descuento o promoción.
